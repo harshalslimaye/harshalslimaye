@@ -1,7 +1,7 @@
-<h1 align="center">Hello World! 👋, I'm Harshal Limaye</h1>
+<h1 align="center">Hi 👋, I'm Harshal Limaye</h1>
 <h3 align="center">JavaScript Enthusiast | Software Developer | Open Source Contributor | Technical Speaker</h3>
 
-- 🌱 I’m currently learning **Tailwind, Next.js**
+- 🌱 I’m currently learning **Rust**
 
 - 📝 I regularly write articles on [https://harshal.dev](https://harshal.dev)
 
