@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshal Limaye</h1>
 <h3 align="center">JavaScript Enthusiast | Software Developer | Open Source Contributor | Technical Speaker</h3>
 
-- 🌱 I’m currently learning **Rust**
-
-- 📝 I regularly write articles on [https://harshal.dev](https://harshal.dev)
+- 🌱 I’m currently learning **Micro Frontend Architecture**
 
 - 💬 Ask me about **Angular, TypeScript, JavaScript, RxJS, Ngrx**
 
