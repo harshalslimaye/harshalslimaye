@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshal Limaye</h1>
-<h3 align="center">JavaScript Enthusiast | Software Developer | Open Source Contributor | Technical Speaker</h3>
+<h3 align="center">AI Enthusiast | Software Developer | Technical Speaker</h3>
 
 - 🌱 I’m currently learning **Agentic AI and RAG**
 
