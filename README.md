@@ -1,18 +1,58 @@
-<h1 align="center">Hi 👋, I'm Harshal Limaye</h1>
-<h3 align="center">AI Enthusiast | Software Developer | Technical Speaker</h3>
+<h1 align="center">Hi, I'm Harshal Limaye 👋</h1>
 
-- 🌱 I’m currently learning **Agentic AI and RAG**
-
-- 💬 Ask me about **Angular, TypeScript, JavaScript, RxJS, Ngrx**
-
-- 📫 How to reach me **harshal.limaye@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/harshalslimaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshalslimaye" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshal-limaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal-limaye" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7148982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7148982" height="30" width="40" /></a>
+<p align="center">
+  <b>Lead Engineer</b> · building AI systems that automate engineering work
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  10+ years in frontend &amp; UI · turning agents, RAG and MCP into things you can actually ship.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/harshal-limaye"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/harshalslimaye"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:harshal.limaye@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+### 🔧 What I'm building
+
+**[MCPFlo](https://mcpflo.com)** — an Electron-based debugger and inspector for the Model Context Protocol. Think "Bruno for MCP": persistent server connections (warm calls in single-digit milliseconds), schema-driven parameter forms that decompose nested array-of-object schemas into real fields, protocol event timelines, and request history. Built to make MCP servers actually debuggable.
+
+> Stack: Electron · React · TypeScript · Zustand · Tailwind
+
+### 💡 What I do
+
+- Lead engineering, mentoring, and architecture for production UI at scale
+- 10+ years of **Angular** — RxJS-heavy reactive architectures, NgRx state management, and large enterprise apps that have to stay maintainable for years
+- JSON-schema-driven form systems, the kind that survive real-world complexity
+- WordPress — two-time WordCamp speaker, one-time organizer
+- Bridging deep frontend experience into AI engineering: agents, RAG, MCP
+
+### 🛠️ Tech I work with
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white" alt="RxJS"/>
+  <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=flat&logo=reactivex&logoColor=white" alt="NgRx"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" alt="Electron"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/MCP-CC785C?style=flat&logoColor=white" alt="MCP"/>
+</p>
+
+### 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshalslimaye&show_icons=true&hide_border=true&theme=transparent" alt="stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalslimaye&layout=compact&hide_border=true&theme=transparent" alt="top langs" height="160"/>
+</p>
+
+---
+
+<p align="center"><i>I build more than I publish. Slowly fixing that.</i></p>
