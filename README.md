@@ -18,7 +18,7 @@
 
 ### 🔧 What I'm building
 
-**[MCPFlo](https://mcpflo.com](https://github.com/harshalslimaye/mcpflo)** — an Electron-based debugger and inspector for the Model Context Protocol. Think "Bruno for MCP": persistent server connections (warm calls in single-digit milliseconds), schema-driven parameter forms that decompose nested array-of-object schemas into real fields, protocol event timelines, and request history. Built to make MCP servers actually debuggable.
+**[MCPFlo](https://mcpflo.com](https://github.com/harshalslimaye/mcpflo))** — an Electron-based debugger and inspector for the Model Context Protocol. Think "Bruno for MCP": persistent server connections (warm calls in single-digit milliseconds), schema-driven parameter forms that decompose nested array-of-object schemas into real fields, protocol event timelines, and request history. Built to make MCP servers actually debuggable.
 
 > Stack: Electron · React · TypeScript · Zustand · Tailwind
 
